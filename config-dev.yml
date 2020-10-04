@@ -1,1 +1,2 @@
-configName: dev-xi
+config: 
+  info: dev-xi-version:1
