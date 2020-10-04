@@ -1,1 +1,3 @@
-configName: test-xi
+config: 
+  info: test-xi-version:1
+
